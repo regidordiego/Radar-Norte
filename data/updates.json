@@ -1,7 +1,47 @@
 {
-  "mode": "initial",
-  "updated_at": "2026-11-10T12:40:00Z",
+  "mode": "automatic",
+  "updated_at": "2026-11-10T14:12:15+00:00",
   "items": [
+    {
+      "id": "seed-emvialsa-inscripciones",
+      "title": "Consulta las convocatorias y plazos de EMVIALSA",
+      "source": "EMVIALSA · registro oficial",
+      "area": "Alcobendas",
+      "kind": "Noticia",
+      "date": "2026-11-10",
+      "url": "https://emvialsa.org/acceso-a-la-vivienda/inscripciones",
+      "summary": "Referencia de inicio: esta tarjeta no significa una convocatoria nueva."
+    },
+    {
+      "id": "4738586169461aab3a9450b3",
+      "title": "El pleno del mes de noviembre de Alcobendas aprobará la reparcelación del proyecto urbanístico Valgrande - Madrid Norte 24 horas",
+      "source": "Madrid Norte 24 horas",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHdicGk4NVNydm16eHRBb0toZkdGSkdWcldPTnFnN1R2RmVhdEoxV3d0cWc0aEdBLUlEb3ZuaXhGVzlQVHdIYVBqdHg4UjNUUXdwTWpfMGVQNTBfOFBqTk1rQlBiZWhfYmdIOXl5MUttNTVwTFpETjZiTHFEQ3hwS1FyNk1JS2Y0cFlqbVhYYndDOHg4NlptbHMyVDBaTzIyV2FhTjlGWUdZNnpoYnljS2EyWGhLSWQ0cjhQN05rOWdmbHNVdEF4cTBfZEFmVGdfQUV0azl1UlhOWXRKcGNWcGJQQllpa1ExQVI5U9IB8gFBVV95cUxPdlFRdm55eDk1UWRSVk5icncxUXZDSktxRExhYnJWTVBiVi1tMGVWRVpsN2xfamcwcC1weUx0YzNoN0xJU0tGNDloN3hvR1d2WVMweDNFYVNkMkZtTXlEbDNDdWd4VVlCX2p0U3hzSUlOVkN4S1p2ZXc5aHZmaUp2TEx2YUVVTnQzTmg4ejFROTJMODh6WmRkRnNQLTRXQU4tYnRtbDBGOWFGNEdHT05xeE9kOUpBdXJaMmV2S0xabXo3MHVPek4ydTJfeU5tc1ZPSVNHRmtULUtYY2dkQ0ZNdTdPU1ZxWGNXTTVFVjh3OEw1QQ?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "dc6041d9f930e63868259288",
+      "title": "Alcobendas da un nuevo paso para construir 8.600 viviendas en Valgrande: las obras podrían empezar en 2027 - Madrid365",
+      "source": "Madrid365",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0xQc05NaURVR3BfOU5adlVRZzFhSC1KQmRwVVR1MVBnSFBvaDNMMFNpT1o5a0Vwdm40Y0hPM2tqOTBxYVV6UzY1cTZ1NEZzMW56OHMzTHppTnYxdG9QQ29sakpVbTdFazhMNEs0VGZibUxleU54empHSGxVSm52N1BxWWsySXJpUzNQUjRCT0xqX0dzTjV6OHdDdFRfeFRwbDZMZWhzLWVENXByMV9VeVFSZm1FOGtoV1NXVkU0Nm00RnBkWlVTTnd4UDVwV3VYQldBUGlSa2gyeDNYd0c1UWxrNm5zd9IB6wFBVV95cUxOT3NtS1k4dFBJaGxoT2UxUURUcG9oTnFrQ1dPR0Z2a1lmZDRvUXhwMlYzUUhZWGpWcWtLbEtmMHptSE8tRlc3NlpHUGp5WkdldTdLVGxOdm5XNVFhaDkxMndFcmN0ZVVyeHNvRWhack9hbkZBeGdfT3RUOVdEbHdHY0tmNV9DSlJybHR0ajZzRndObXdsTlpxMmE4amw4d042YS1GTFFVRDlFREViRmVrY0c2NzlvaTFyM0FWOWZEYmlRTUNGZHpFbUM1ZVVnUXdHcXBZZzVoeThQVTdTYUEzdC1qLWZwR0tqZ2JB?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "eff4aa7d671b49a8f91c2dd2",
+      "title": "Una manifestación denunciará el problema de la vivienda en Sanse y Alcobendas por la Huelga General del 11N - Cadena SER",
+      "source": "Cadena SER",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVnBGZ08yVTlZZXl1dFV6WEZlbFY4RlVYU19zQWY1dE5aTVZOYW5VS19VYS1FQ2g4NmtUSEtUSzhLZjRIWEZsd2NNZ1hRa1dma1RPcFdHakgzMHdLMTNiOGZsUU9RM0dmUU1jODRLYlNDQkZXTUFPSU45M3Nack1uNWM2WkdCNXZmQkZEN01TR2Z0aFBXS3Q4cnF6ZVowS2dHYlVDMmM1bVdEMk56U1ZVbE9sbEFjN29DaUlhbi1meTJqMTN2cEI5SHZpazhWbGVCOVFGa1VkRF84dlBLeDA4b2hhaHpwZDQ5OTVqelo2enFXT1Uzck8zTHZB0gGOAkFVX3lxTE9wQW1nek1neVFnSGluU1lFdlBqNFZVemN4VFRsNVI1MldESUZTYUJINy1NZkhldEdfOF9tcU5sSF9iNC1lMF9FbmJ4NmR5N1AtM3NjNGJPZmhmSzV1bEJwZ0RELVp5ZGpKX1hLaUpFdDliR04zQ0pqb1p6UHhYRVVCcGZaVlNaX1hnYVY1blVxOFQ4VDA1WHFTZ0ppZE04ZWVDYS1hX3lYdmZVbTg5NkkyN1ZmaTlhYjVQVUl5NV9YUzBOaE92MkZabHZZOGJwZUhHaHNrRVlueXlGT09YNWU4R3d3WVlZOXJULVQ1LUx1SUpIQmxlNlNRcVdHZlFBVDN3ekJjek9YQV9vTjBKdw?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
     {
       "id": "seed-valgrande-nov-9",
       "title": "Alcobendas aprueba inicialmente la reparcelación de Valgrande",
@@ -13,14 +53,106 @@
       "summary": "Avance de tramitación urbanística, no apertura de una promoción."
     },
     {
-      "id": "seed-emvialsa-inscripciones",
-      "title": "Consulta las convocatorias y plazos de EMVIALSA",
-      "source": "EMVIALSA · registro oficial",
-      "area": "Alcobendas",
+      "id": "8db8b22eed98bd9cbb51bdf2",
+      "title": "Avanza la construcción de 8.600 viviendas en Alcobendas con la aprobación de la reparcelación de los terrenos - Cadena SER",
+      "source": "Cadena SER",
+      "area": "Valgrande",
       "kind": "Noticia",
-      "date": "2026-11-10",
-      "url": "https://emvialsa.org/acceso-a-la-vivienda/inscripciones",
-      "summary": "Referencia de inicio: esta tarjeta no significa una convocatoria nueva."
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUUFJZmkzZmxpMVh5ZEdhREJPbG1WNzdab2FoVzF3TTJtbnVTeTFCRU12UzhvcnNESWl6SHhrU3puckEtTkRuWVN6TldNejhFcWJCcUNEVHVaZHE0LXNCanVfRUxpaVN3ekx1RUNLcG5qQ3RObXlFRUV2NDhzdE9jbHcwMTdtczZaZERlcEg2Skc4cXoyNk56dFRpQkJ1LUpTZURhY29HalJQN0NtcFFOY1R3MWZlVW91ckRjWDV6V191M1V1ZHZtT1ZVVjFjbVltWkFrd043ZU5wb2R1eG9FNDFCd0pMdmV5d05BY1hURW9GMGIzV1ptX1BzZkJYQTNvZDRmN0c4eTdxMzkzeG9j0gGPAkFVX3lxTE5RQUlmaTNmbGkxWHlkR2FEQk9sbVY3N1pvYWhXMXdNMm1udVN5MUJFTXZTOG9yc0RJaXpIeGtTem5yQS1ORG5ZU3pOV016OEVxYkJxQ0RUdVpkcTQtc0JqdV9FTGlpU3d6THVFQ0twbmpDdE5teUVFRXY0OHN0T2NsdzAxN21zNlpkRGVwSDZKRzhxejI2Tnp0VGlCQnUtSlNlRGFjb0dqUlA3Q21wUU5jVHcxZmVVb3VyRGNYNXpXX3UzVXVkdm1PVlVWMWNtWW1aQWt3TjdlTnBvZHV4b0U0MUJ3Skx2ZXl3TkFjWFRFb0YwYjNXWm1fUHNmQlhBM29kNGY3Rzh5N3EzOTN4b2M?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "2fd489f54bedc196d01348fc",
+      "title": "Alcobendas aprueba la reparcelación de Valgrande: 8.600 viviendas y 2.300 millones - MONCLOA.COM",
+      "source": "MONCLOA.COM",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjFmUjdMdFJFV0R1RlV0UHdHbmJjd28zOVFvVXJaanYzeWktR3ExTHl3ZlNwcGsteVBLenZac3N3bndNcmhkendBal9yYlo4TlJKa1JzMnEyV0R4NVRYekJQT2pyTkY1QVlILXlTSnJuUURQUlgtcW5xZ3c4QjBFTGZGdnZhZUstb01yZVAyM3pBZw?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "88f13285cdf6525a5831d146",
+      "title": "Aprobada la reparcelación de Valgrande, el futuro desarrollo urbanístico de Alcobendas - Cronica Norte",
+      "source": "Cronica Norte",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVGpCeVZOb2JnRkZsOEZHOXdZRFp1X3FwaTEtRlo0MXpaeldDckdtZTJxN3BjaEZjZU83Szg5cHVEcncyMlMwdmEteWFsdmtJUHhpcHNRNlFCUENxZ0kzTVgzZFFTc21JMWfSAW9BVV95cUxNVmJmZ1dCb2txb3lxQUktVEY1RmlEWTZkWkZ5ZC1hQWhNNnU4bVg4SHk3cy1xdU53a1UzYUxDV2pxaHp3UVprS0w1VGZpVGhzRzVOUkRMWGdpcU03N1JLaEttamdidHNla2tTbjhrdXM?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "ca1b9c2bcf379a2709be693c",
+      "title": "Alcobendas aprueba Valgrande con 8.600 viviendas - Madrid Actual",
+      "source": "Madrid Actual",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnhPZmJCSkt2ZEh3enVhVFBwQ200ZzJ5WGo5ZWgzMWhxV3lZbUlJemREbkdLekRTZXg0M0FsNm5LSmJZM25qM3pfYmtKZ0dUc18tVzBlTXk4c2xlME5uenpCdkdNLW5peGhNTW5DMnEza2E1dURlQ1lmejFnMGNqejJwWjd0OXJscEtzY3BHWXV6YlBqUGt4NnJwdlcyRFBVSjZoMVAyc3pYX3VqcVpHM2NYaU9wQXNRU2JHalY3RHpmdTBmVGM0?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "2e7fb38b9978e4d5ee10f082",
+      "title": "Valgrande: 8.600 viviendas en Alcobendas y obras en 2027 - Tribuna de la Moraleja",
+      "source": "Tribuna de la Moraleja",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM29FVGxDS0h0ZmN0aE9zS2lCOTU0OWtFLVF0dHo0ZkVqTGE1eDgtSGxYQTlNTkxHUllKS19CV0stQ0lvUkpEMmdLYTFidEVzVXNDb0VpTTB4UEpXdnhZaEFXVHVGOFREWXhGeThiT0NraEhpUE8xNWxPdTdRNVlhVHdERVF6WGpNN3c?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "0b897286e6cbf064b5176fd0",
+      "title": "Cementos La Cruz inaugura una planta en Alcobendas - Tribuna de la Moraleja",
+      "source": "Tribuna de la Moraleja",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHpCeFdPUnJwTUd1MlZnN2RtQlo4dmQ4eUNKSk40TTd1ODJRUklVdndIX3l5aE1RdDBTeHVGcmRPZWVNVnVFY01hMXhtQlBsOWh2amR4aWpzUHBRWnptem9fY3BxOVV4aG1EVDRBcmVaUW5sN2FEUXlubjF0eFBaQjRQS2xIWmZGcFUzbV9IRG90LUpvSGVjWmRhOUttYllJYk9ZNUdn?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "7622ca619c957511b21cbef8",
+      "title": "Madrid gana capacidad para construir hasta 10.000 viviendas al año con una de las mayores plantas cápsula de hormigón de Europa - La Razón",
+      "source": "La Razón",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd3JkTk54bHJYQy1jMVZBQUNmRFl6dTBVbGNMUHNORGtHQnNBdzZUVHZpV0xPalpNZlp3VjhVLXNrOVFyTlc3Uk9GeUwxTnNjY01MMGFST19ibFpCSWFyWUh5bVJBbDlNS0E5Ym1Nb2JMTVRMMHZaUElESGFnQkRVU2t0VE1LcGg4NHNaTDlURlE2enpmNzI2MTJySEt1bFlFcUZmUHIzNVdHSHBmaWRTSnNJa3licHdOYW90M2FrQS1TNXJVNUZGVURKSFJBb3hTNzhLakVCVVVxdTJJeHNnYVBtbWlSWklSS1BfNnRSNkNaMmvSAYcCQVVfeXFMTTc3V21PUkhMWmVOS2FUdndqcl91c3lrWFpGTmZWUENjNkxlMnRJbXJiUnRpeGNZYlU5X3RVLWlJUnU3bzhjc0FQZVNFQ3V6UnpwQUlFTnZqcXBVVnZKNFJPeHBBVExvUnZNc3cxMDZpelp3V3VMckVxUXdubXdmSWJYbXhBaTYwcExxaWpwVnJTVldCM3VEekZLazlHTkFSZ21LN0dyU1djY3B0cXozNHh4eWI3UzFFRG9Vc0lFT1hOb0JQWV81X29hakJkR2JKLUg2eFV3Qmt3cmdfdVRIbFczUjd3QjR2TEZ0ejBPeXRZNTE1U0V4TUdzb2Q1cG9XUnNjS2xkelk?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "baf626d7770ec279c760cdf5",
+      "title": "Cementos La Cruz estrena una de las mayores 'plantas cápsula' de hormigón de Europa para acelerar la construcción de hasta 10.000 viviendas al año - ABC",
+      "source": "ABC",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG1DUXAzV3UxQnhxZXhZS21tQ3kxdlAxRnd0Y3p4RlRadlM4eXlqVEYtdFFkdmtQcTQ5VE5jdjVSUkFoTkVwdTJtUlpzdUlDYmRVbkFWREhzTDRMa2VFdmJCaG80ODZoRFQ0ZGJ2R25nVkRqZzNLUjc1SUFTOFdYa1BJZUlmdEtOQWs3RkFLQm90dDRGamhrYXVXc2ZNaHVkeWtaSlNXNTTSAa4BQVVfeXFMTVIwQTN3T1dCZTRmV0lFY0hGRUxEa05YOHJqbnBtdTRMQVUxeExqWmFIMTk2dmstSy0tcVZfUnlEbjJKbEtkSFczY3NhTFR1Q0RqMTA2SEZONmJMQk9oSmY2NWpBX1hCLW5rNU0yYzgyVnpKX2ptX0tBRTM1cHMyOTZqTG9nT0lCcVI3RFV1SkJlZk5HOUhWOWhXbzhvZThpWXY4T21mM2ZHT25EcGtR?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "8fed16fee611544b2cb959a6",
+      "title": "Cementos La Cruz inaugura en Alcobendas su tercera ‘planta cápsula’ de hormigón en España - El Nuevo Digital Murcia",
+      "source": "El Nuevo Digital Murcia",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGQydGgtLUk1T0hiUVd2dXFlMGZIQ0wyWW50UzlqS0hLakZuTVRrZXlvWDBKZTFrX2pkV2hiVWdxdzJqODVtVFotMXRmVTkxVDhpNmlxeGQwZjhoT0c3bWdWQjNyUjJsMDQtN1d6VlR3Nl90b19fQzJycmxxblZ3dndVNVctTGp6SmUwOTdiVUw4eWRNdEN2OTVFamt2ODlnaXVFdkpudjc0VVhVcWtKSTVPNEVNVElvYVQ3SVFUcnVqbmFuejZZ?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "160386fb534bbde84f4858e7",
+      "title": "Cementos La Cruz estrena en España una de las mayores ‘plantas cápsula’ de hormigón de Europa - elperiodicodelazulejo.es",
+      "source": "elperiodicodelazulejo.es",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRzRHTUs4bE9PZUlwRmtZbkdjbHBpUldfenRnV1VaZG5kZ0RXT1kxMGtkSGVaM1JObkQ2Z1Jxd254dTFpWHRDZkpLZHdYbWlPd1ktNDNtZEZ3X2Z2NUJ3Z0JOZXVWNUhxT1FTbHZqclJGV0NFM3dqci1tTkZwamhfMGQ3MXBSSmVOZWZXa0hMekFPWjV3c1l6ZGZIMkpaWVc5Q2FOTTNiZTJkY2owZFhTVTgzU1hJOU9QZ1ZoRHhMSHRNa1BIMnpyaGFSQnpIaEJweXd5SElZQmk2NFJhc2JWcHZmM09LVk430gHoAUFVX3lxTE9HNEdNSzhsT09lSXBGa1luR2NscGlSV196dGdXVVpkbmRnRFdPWTEwa2RIZVozUk5uRDZnUnF3bnh1MWlYdENmSktkd1htaU93WS00M21kRndfZnY1QndnQk5ldVY1SHFPUVNsdmpyUkZXQ0Uzd2pyLW1ORnBqaF8wZDcxcFJKZU5lZldrSEx6QU9aNXdzWXpkZkgySlpZVzlDYU5NM2JlMmRjajBkWFNVODNTWEk5T1BnVmhEeExIdE1rUEgyenJoYVJCekhoQnB5d3lISVlCaTY0UmFzYlZwdmYzT0tWTjc?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     }
-  ]
+  ],
+  "sources_ok": 11,
+  "sources_total": 12
 }
