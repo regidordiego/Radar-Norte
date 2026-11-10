@@ -1,0 +1,66 @@
+
+name: Actualizar y publicar NORTE Radar
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - index.html
+      - monitor.py
+      - .github/workflows/actualizar-radar.yml
+  schedule:
+    # Revisiones automáticas dos veces al día
+    - cron: '17 6,14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-norte-pages
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Comprobar fuentes publicas
+        run: python monitor.py
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/updates.json data/monitor_state.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Actualizar noticias de NORTE Radar"
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar contenido del sitio
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+  publicar:
+    needs: actualizar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
