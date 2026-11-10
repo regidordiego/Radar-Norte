@@ -1,0 +1,26 @@
+{
+  "mode": "initial",
+  "updated_at": "2026-11-10T12:40:00Z",
+  "items": [
+    {
+      "id": "seed-valgrande-nov-9",
+      "title": "Alcobendas aprueba inicialmente la reparcelación de Valgrande",
+      "source": "Prensa local · resumen Alcobi",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://alcobi.es/ciudad/valgrande/noticias/",
+      "summary": "Avance de tramitación urbanística, no apertura de una promoción."
+    },
+    {
+      "id": "seed-emvialsa-inscripciones",
+      "title": "Consulta las convocatorias y plazos de EMVIALSA",
+      "source": "EMVIALSA · registro oficial",
+      "area": "Alcobendas",
+      "kind": "Noticia",
+      "date": "2026-11-10",
+      "url": "https://emvialsa.org/acceso-a-la-vivienda/inscripciones",
+      "summary": "Referencia de inicio: esta tarjeta no significa una convocatoria nueva."
+    }
+  ]
+}
