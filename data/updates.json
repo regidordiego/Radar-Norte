@@ -1,7 +1,47 @@
 {
   "mode": "automatic",
-  "updated_at": "2026-11-11T14:23:10+00:00",
+  "updated_at": "2026-11-12T15:15:22+00:00",
   "items": [
+    {
+      "id": "7e54ad08fa7da880657c715d",
+      "title": "Cambio detectado: Valgrande · web oficial",
+      "source": "Valgrande · web oficial",
+      "area": "Valgrande",
+      "kind": "Cambio de web",
+      "date": "2026-11-12",
+      "url": "https://valgrandealcobendas.es/",
+      "summary": "El contenido público de la página ha cambiado. No confirma nuevas plazas: revisa los detalles en la fuente."
+    },
+    {
+      "id": "8410e4fe24d404639d66acec",
+      "title": "Cambio detectado: CooperOpen · Cerro del Baile",
+      "source": "CooperOpen · Cerro del Baile",
+      "area": "Cerro del Baile",
+      "kind": "Cambio de web",
+      "date": "2026-11-12",
+      "url": "https://cooperopen.org/san-sebastian-de-los-reyes",
+      "summary": "El contenido público de la página ha cambiado. No confirma nuevas plazas: revisa los detalles en la fuente."
+    },
+    {
+      "id": "78c47c370544f351b1389266",
+      "title": "¿Buscas vivienda protegida cerca de Madrid? Alcobendas construirá 8.600 casas y más de la mitad serán protegidas - Fotocasa.es",
+      "source": "Fotocasa.es",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2g1dkFiUXNOMHBCMHE2TS1WbU9MSjFSSEs1cEhXaGxLMUVGY2x5OGVncFRXSHFaVnluMURZcHFQdWJ3dGJxM1hWVlJmNlVMUl9xLWx3RENxdTFDOXFLZ3VTQThjb1ZoaXl1YmJ5Q3JjVU9JaWduLVhwQ0dvb3ljbVEwSldMWUxYa25QQm1VVTRLQzNQWWVIbHI1TFNCRXhvblFReENOSHFMY2VNUTBkUjE1RndMZWZUMllFYjVWQks1czEz?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "f2416dd8bd00de0fea9d504c",
+      "title": "Primero lo paralizó y ahora vuelve a intentarlo: Alcobendas pone 7,4 millones para construir 41 viviendas protegidas - www.lamoraleja.com",
+      "source": "www.lamoraleja.com",
+      "area": "Alcobendas",
+      "kind": "Noticia",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uUExsZ29kbEFqMUdZY1lCWTRONktEQVJPUTltS3NPMFIzOG5na3R2czN0a0ZmVi1jWTNwQ0N5VG1PUUFMZTU0SG9kV2FWcUMtb3NOYXpwUmVBaER0ME5qZTZodUl5R2ptNmp0RENmR1NVSHJndm5fTnk2bktuTUk?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
     {
       "id": "de97cf6a160af4428953081b",
       "title": "Alcobendas aprueba la reparcelación de Valgrande para 8.600 viviendas - Confidencial Digital",
@@ -9,7 +49,7 @@
       "area": "Valgrande",
       "kind": "Noticia",
       "date": "2026-11-11",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVNyVFJyRUl4Uk12RTFMM3ZyZXlYOUhoazhfdWh0TDd2SHJDZVp6LXQ3djZ0cXRNMzdpTDhiaC1ibEVzeEdGcXJUN3MxRXhFM2hjcDM3S0wwQXhtcUw4dU9TUlEzZTVWYk5nb3JGWDZCWUdGYkxCelhWc0hiRkM4V2lOMDNJcUtQZGVDRzJ0S25HSUg1TVVjUHhVRTZSai1SR05wMFFrUUJNNmg0Rk9Ka25WLVBtcV9ONzAtLXlyV3lYYXkyUnB4Si1CRG5tdjM5d2FV0gHYAUFVX3lxTE15NEpNNjd4dVVsXzJUQk5xdEhXWVhLUmZPczl1MEtpVU1xWUFzUGJhZkExczFCMG10Mmx1eXUxTURLNU82VzhpcjB5Rl9Ra1pweTZXM3liZW5ST1RGTjFqUS1SU3pSMjNNWWw3WnVfMW9NY0hPRWxnYWVvTVhfQ01ycVRyV1l2S2Nla180QjJ2cVNFcHhWNnBlRTBEUzNhU3d0N2JqNDF6TThPTlBrTFVjREVnei1NUUcwRXRMekVpMUtMYTNLeVVPQ2JpSWdlY0c4aUc2M3JKUA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTRKTTY3eHVVbF8yVEJOcXRIV1lYS1JmT3M5dTBLaVVNcVlBc1BiYWZBMXMxQjBtdDJsdXl1MU1ESzVPNlc4aXIweUZfUWtacHk2VzN5YmVuUk9URk4xalEtUlN6UjIzTVlsN1p1XzFvTWNIT0VsZ2Flb01YX0NNcnFUcldZdktjZWtfNEIydnFTRXB4VjZwZUUwRFMzYVN3dDdiajQxek04T05Qa0xVY0RFZ3otTVFHMEV0THpFaTFLTGEzS3lVT0NiaUlnZWNHOGlHNjNySlDSAdgBQVVfeXFMTXk0Sk02N3h1VWxfMlRCTnF0SFdZWEtSZk9zOXUwS2lVTXFZQXNQYmFmQTFzMUIwbXQybHV5dTFNREs1TzZXOGlyMHlGX1FrWnB5NlczeWJlblJPVEZOMWpRLVJTelIyM01ZbDdadV8xb01jSE9FbGdhZW9NWF9DTXJxVHJXWXZLY2VrXzRCMnZxU0VweFY2cGVFMERTM2FTd3Q3Ymo0MXpNOE9OUGtMVWNERWd6LU1RRzBFdEx6RWkxS0xhM0t5VU9DYmlJZ2VjRzhpRzYzckpQ?oc=5",
       "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     },
     {
@@ -30,6 +70,16 @@
       "kind": "Noticia",
       "date": "2026-11-11",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVM1SlRHZGh3RVVJd2RwLXh4bThUcThxdER0d3JMdGV0N2Zoc292SFBQQzFDSVR6cXowRl9xS1Q3QUp2VFNHS0JYWVcwbV9MTmpBTjVNUVdpbFQwSUJPcy01UlNSRnFQRExCaFhGdWhxaDBjSjBRZ0QwMUNIUk5NSGM4SkM1UmZHYTN6R2w1WmNSUjJRYU9Fbi14czM3TW9OOWdXVzJISmtkSll6QU1kT25Wcw?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "352546c1c4a90a13a0af621c",
+      "title": "Huelga general 11N: manifestación convocada por Alcosanse entre San Sebastián de los Reyes y Alcobendas - Press Norte Noticias ®✔️",
+      "source": "Press Norte Noticias ®✔️",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWJHNVRJbnB5QkpaQTI5NDVacGt3MjlOQ0N3VnJqYXBqazUzcFpBM2hMMDdSN3hKTXgwaUhxcXZHN0c5ekZTZFVSZmMxQ2lMeVFDbHJoZDJQcHZMUjdtR3RoT3NqTGpJdUx0M3lVTm5UZFI2LTZidlB2ZDk5VjNkS2lEQmY2SnNMb2hWckFKS1dfWnZZd09oMmlubmE?oc=5",
       "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     },
     {
@@ -143,6 +193,16 @@
       "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     },
     {
+      "id": "e9175b67288e2f68ed47fc09",
+      "title": "Alcobendas da luz verde a Valgrande y sus 8.600 viviendas - Madrid Actual",
+      "source": "Madrid Actual",
+      "area": "Valgrande",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnhPZmJCSkt2ZEh3enVhVFBwQ200ZzJ5WGo5ZWgzMWhxV3lZbUlJemREbkdLekRTZXg0M0FsNm5LSmJZM25qM3pfYmtKZ0dUc18tVzBlTXk4c2xlME5uenpCdkdNLW5peGhNTW5DMnEza2E1dURlQ1lmejFnMGNqejJwWjd0OXJscEtzY3BHWXV6YlBqUGt4NnJwdlcyRFBVSjZoMVAyc3pYX3VqcVpHM2NYaU9wQXNRU2JHalY3RHpmdTBmVGM0?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
       "id": "0b897286e6cbf064b5176fd0",
       "title": "Cementos La Cruz inaugura una planta en Alcobendas - Tribuna de la Moraleja",
       "source": "Tribuna de la Moraleja",
@@ -200,6 +260,16 @@
       "kind": "Noticia",
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRzRHTUs4bE9PZUlwRmtZbkdjbHBpUldfenRnV1VaZG5kZ0RXT1kxMGtkSGVaM1JObkQ2Z1Jxd254dTFpWHRDZkpLZHdYbWlPd1ktNDNtZEZ3X2Z2NUJ3Z0JOZXVWNUhxT1FTbHZqclJGV0NFM3dqci1tTkZwamhfMGQ3MXBSSmVOZWZXa0hMekFPWjV3c1l6ZGZIMkpaWVc5Q2FOTTNiZTJkY2owZFhTVTgzU1hJOU9QZ1ZoRHhMSHRNa1BIMnpyaGFSQnpIaEJweXd5SElZQmk2NFJhc2JWcHZmM09LVk430gHoAUFVX3lxTE9HNEdNSzhsT09lSXBGa1luR2NscGlSV196dGdXVVpkbmRnRFdPWTEwa2RIZVozUk5uRDZnUnF3bnh1MWlYdENmSktkd1htaU93WS00M21kRndfZnY1QndnQk5ldVY1SHFPUVNsdmpyUkZXQ0Uzd2pyLW1ORnBqaF8wZDcxcFJKZU5lZldrSEx6QU9aNXdzWXpkZkgySlpZVzlDYU5NM2JlMmRjajBkWFNVODNTWEk5T1BnVmhEeExIdE1rUEgyenJoYVJCekhoQnB5d3lISVlCaTY0UmFzYlZwdmYzT0tWTjc?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "d53184df9ffef336b4cda6fa",
+      "title": "La murciana Cementos La Cruz inaugura su 'planta cápsula' de hormigón en Madrid para construir 10.000 viviendas al año - La Verdad",
+      "source": "La Verdad",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzYwNEtwdDJ3Q1hwSkNrcUJGWHlsTHQzc0RNckhCNnRodXFydlcyYU5CU05HeXdVX01IcXZ0WUh4UTc5SHZrWnRfb2xUWVJLQlc5eEtiYW5RSEdadTR1OU9xQlJ5UEI3dW5QeDV3c3hvRmd3OFVJRWlhbGNCel8zUEJoSUpIRmhycmpXR0NBdFliVWd1ajItaWRLNEZZdXdBTTgzcG12LUlJOGFlM3fSAbMBQVVfeXFMTW1Ec3FZWG5GcDRES1FQMk9MTWEtbzQzNlBTU0psZFlJc056Und6eUdmMjBwc1k0ZHE5djBCVmRVaUoxSWxZWVJEb2Nzd0RWT0pqb0dleXFsTkNzV3RHNUNXMm9icmU3QXp0TW9GQ25tY040LUEySGg3YjQwX21BR2NMQ2J5R0xQT3IyeTNRdlRCTFRTMHBSbUhrVjVVbTU1QV9NQTdDbXZjWnNKMzJRQjJNWHM?oc=5",
       "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     }
   ],
