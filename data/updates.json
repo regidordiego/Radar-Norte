@@ -1,7 +1,27 @@
 {
   "mode": "automatic",
-  "updated_at": "2026-11-12T15:15:22+00:00",
+  "updated_at": "2026-11-13T14:35:00+00:00",
   "items": [
+    {
+      "id": "0747455f6a897d1fd48636dd",
+      "title": "Cambio detectado: EMVIALSA · noticias",
+      "source": "EMVIALSA · noticias",
+      "area": "Alcobendas",
+      "kind": "Cambio de web",
+      "date": "2026-11-13",
+      "url": "https://emvialsa.org/",
+      "summary": "El contenido público de la página ha cambiado. No confirma nuevas plazas: revisa los detalles en la fuente."
+    },
+    {
+      "id": "061046c9e1b2b81f37baa15e",
+      "title": "Cambio detectado: CooperOpen · Cerro del Baile",
+      "source": "CooperOpen · Cerro del Baile",
+      "area": "Cerro del Baile",
+      "kind": "Cambio de web",
+      "date": "2026-11-13",
+      "url": "https://cooperopen.org/san-sebastian-de-los-reyes",
+      "summary": "El contenido público de la página ha cambiado. No confirma nuevas plazas: revisa los detalles en la fuente."
+    },
     {
       "id": "7e54ad08fa7da880657c715d",
       "title": "Cambio detectado: Valgrande · web oficial",
@@ -10,16 +30,6 @@
       "kind": "Cambio de web",
       "date": "2026-11-12",
       "url": "https://valgrandealcobendas.es/",
-      "summary": "El contenido público de la página ha cambiado. No confirma nuevas plazas: revisa los detalles en la fuente."
-    },
-    {
-      "id": "8410e4fe24d404639d66acec",
-      "title": "Cambio detectado: CooperOpen · Cerro del Baile",
-      "source": "CooperOpen · Cerro del Baile",
-      "area": "Cerro del Baile",
-      "kind": "Cambio de web",
-      "date": "2026-11-12",
-      "url": "https://cooperopen.org/san-sebastian-de-los-reyes",
       "summary": "El contenido público de la página ha cambiado. No confirma nuevas plazas: revisa los detalles en la fuente."
     },
     {
@@ -36,6 +46,16 @@
       "id": "f2416dd8bd00de0fea9d504c",
       "title": "Primero lo paralizó y ahora vuelve a intentarlo: Alcobendas pone 7,4 millones para construir 41 viviendas protegidas - www.lamoraleja.com",
       "source": "www.lamoraleja.com",
+      "area": "Alcobendas",
+      "kind": "Noticia",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uUExsZ29kbEFqMUdZY1lCWTRONktEQVJPUTltS3NPMFIzOG5na3R2czN0a0ZmVi1jWTNwQ0N5VG1PUUFMZTU0SG9kV2FWcUMtb3NOYXpwUmVBaER0ME5qZTZodUl5R2ptNmp0RENmR1NVSHJndm5fTnk2bktuTUk?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "80d54e0d53a7274f94e19d78",
+      "title": "Primero lo paralizó y ahora vuelve a intentarlo: Alcobendas pone 7,4 millones para construir 41 viviendas protegidas - https://www.lamoraleja.com/",
+      "source": "https://www.lamoraleja.com/",
       "area": "Alcobendas",
       "kind": "Noticia",
       "date": "2026-11-12",
@@ -80,6 +100,16 @@
       "kind": "Noticia",
       "date": "2026-11-11",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWJHNVRJbnB5QkpaQTI5NDVacGt3MjlOQ0N3VnJqYXBqazUzcFpBM2hMMDdSN3hKTXgwaUhxcXZHN0c5ekZTZFVSZmMxQ2lMeVFDbHJoZDJQcHZMUjdtR3RoT3NqTGpJdUx0M3lVTm5UZFI2LTZidlB2ZDk5VjNkS2lEQmY2SnNMb2hWckFKS1dfWnZZd09oMmlubmE?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "538992c1fe0238c09b5a4b56",
+      "title": "Manifestación en Alcobendas y Sanse por la huelga general del 11N - https://www.lamoraleja.com/",
+      "source": "https://www.lamoraleja.com/",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUlqS00tUlFBVWlkODE3M2JZX2NDLTNTS0VuY3dnRmdvZWxwZ0VsV19XalRQbFJzT1hXZVJXZVAtRmNQSWhod2M5UlhOV1l3UXNUSUdDWlJuZWVlMTdGMnctRnQ0TXEtejdzNmJBNThmV2czdV9sWU5iNnFjM1BENWl5RGo?oc=5",
       "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     },
     {
@@ -200,6 +230,16 @@
       "kind": "Noticia",
       "date": "2026-11-09",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnhPZmJCSkt2ZEh3enVhVFBwQ200ZzJ5WGo5ZWgzMWhxV3lZbUlJemREbkdLekRTZXg0M0FsNm5LSmJZM25qM3pfYmtKZ0dUc18tVzBlTXk4c2xlME5uenpCdkdNLW5peGhNTW5DMnEza2E1dURlQ1lmejFnMGNqejJwWjd0OXJscEtzY3BHWXV6YlBqUGt4NnJwdlcyRFBVSjZoMVAyc3pYX3VqcVpHM2NYaU9wQXNRU2JHalY3RHpmdTBmVGM0?oc=5",
+      "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
+    },
+    {
+      "id": "693f3ec1d11acc69ccab3237",
+      "title": "Cementos La Cruz inaugura en Alcobendas una planta de hormigón para impulsar la construcción de viviendas en Madrid - Construnario",
+      "source": "Construnario",
+      "area": "Cerro del Baile",
+      "kind": "Noticia",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOG9CalFGc0s3M0NyU05lOGwyblRfV0xURGEwMTdyY2xPV3VvNlR0YmRHeEZJYVc4RmhuQ1Y1WjNwV1FXMl8zZVNxSWtWNUJBZmdPN0xWbUVyMTlQSVJmRjNtWkVFcEowVTN0a1VISWlkTnhaUjZ2enAtV3Y2WXhELU9WdVY5bkZ3N1U1MDF0N2hheVhTeHVKaEszODZ6NmZFbEd4UldXNU1zR3JPdkhLUFRxTmNwTS1oVGJJNnh0dFVVRjBFM05LLWo4a241OUJ6Q0M3OW9oaTF1dkJzLTE2ZTVWNTVEbEFocVVXQ1VfaXU?oc=5",
       "summary": "Titular detectado automáticamente. Confirma su contenido y cualquier plazo en la fuente original."
     },
     {
